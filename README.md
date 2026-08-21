@@ -12,24 +12,24 @@
 
 ---
 
-**🎯 Goal:** Identify patterns in subscription renewals and determine which customer segments may require greater retention attention.
+** Goal:** Identify patterns in subscription renewals and determine which customer segments may require greater retention attention.
 
-**🔧 Workflow:** Python → MySQL → SQL Analysis → Business Insights
+** Workflow:** Python → MySQL → SQL Analysis → Business Insights
 
 ---
 ## 📑 Table of Contents
 
-- [📌 Project Overview](#-project-overview)
-- [❓ Business Questions](#-business-questions)
-- [🛠️ Tools & Technologies](#️-tools--technologies)
-- [🗄️ Data & Database Structure](#️-data--database-structure)
-- [🐍 Python Data Preparation](#-python-data-preparation)
-- [🔎 Analysis & SQL](#-analysis--sql)
+- [Project Overview](#-project-overview)
+- [Business Questions](#-business-questions)
+- [Tools & Technologies](#️-tools--technologies)
+- [Data & Database Structure](#️-data--database-structure)
+- [Python Data Preparation](#-python-data-preparation)
+- [Analysis & SQL](#-analysis--sql)
 - [📊 Key Findings & Business Insights](#-key-findings--business-insights)
 - [💼 Business Recommendations](#-business-recommendations)
 
 ---
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes customer subscription behavior to identify patterns associated with subscription renewals.
 
@@ -42,12 +42,12 @@ The analysis focuses on:
 
 Python was used for data preparation and validation, while MySQL and SQL were used for database analysis.
 
-### 🎯 Project Goal
+### Project Goal
 
 > Identify renewal patterns and determine which customer segments may require greater retention attention.
 
 ---
-## ❓ Business Questions
+## Business Questions
 
 | # | Question | Analysis Focus |
 |---|---|---|
@@ -57,7 +57,7 @@ Python was used for data preparation and validation, while MySQL and SQL were us
 | 4 | Do economic conditions appear to coincide with renewal changes? | 📈 Inflation & GDP |
 
 ---
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -68,7 +68,7 @@ Python was used for data preparation and validation, while MySQL and SQL were us
 | SQL | Aggregation, grouping, joins, and renewal analysis |
 
 ---
-## 🗄️ Data & Database Structure
+## Data & Database Structure
 
 The project uses three related tables to analyze subscription behavior from both customer and economic perspectives.
 
@@ -115,7 +115,7 @@ The tables were connected using customer IDs and dates:
 
 ---
 
-## 🐍 Python Data Preparation
+## Python Data Preparation
 
 Python and pandas were used in VS Code to prepare and validate the source datasets before loading them into MySQL.
 
@@ -138,7 +138,7 @@ The preparation included:
 The validated datasets were then imported into MySQL Workbench for database analysis.
 
 ---
-## 🔎 Analysis & SQL
+## Analysis & SQL
 
 The SQL analysis was designed around the business questions defined above. 
 Rather than analyzing every available field, I focused on a small set of metrics that could directly answer the subscription renewal questions.
@@ -159,7 +159,7 @@ Which industries have the highest and lowest subscription renewal rates?
 **Approach:**  
 Joined `client_details` and `subscription_records` using `client_id` and calculated renewal rates by industry.
 
-> ⭐ **Key Observation:** Gaming had the highest renewal rate at **72.73%**, while Crypto had the lowest at **44.00%**.
+> **Key Observation:** Gaming had the highest renewal rate at **72.73%**, while Crypto had the lowest at **44.00%**.
 
 <details>
 <summary>View SQL Query</summary>
@@ -255,11 +255,11 @@ Matched subscription start dates to quarterly economic indicators and compared r
 
 ---
 
-## 📊 Key Findings & Business Insights
+##  Key Findings & Business Insights
 
 The analysis identified several patterns in subscription renewal behavior.
 
-### 🔑 Key Findings
+###  Key Findings
 
 | Finding | Result |
 |---|---|
@@ -268,7 +268,7 @@ The analysis identified several patterns in subscription renewal behavior.
 | 📅 **Renewal over time** | Renewal rates remained relatively stable between **50.00% and 58.82%** from 2018–2022. |
 | 📈 **Economic conditions** | No clear relationship between renewal rates and inflation or GDP growth was identified. |
 
-### 💡 Business Insights
+###  Business Insights
 
 These findings suggest that customer retention may vary more across **customer segments and subscription structures** than across broader economic conditions.
 
@@ -278,7 +278,7 @@ These findings suggest that customer retention may vary more across **customer s
 - **Avoid overinterpreting economic factors:** The current analysis does not provide enough evidence to treat inflation or GDP growth as direct drivers of renewal behavior.
 
 ---
-## 💼 Business Recommendations
+##  Business Recommendations
 
 Based on the analysis, I would recommend the following actions:
 
