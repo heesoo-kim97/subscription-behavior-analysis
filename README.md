@@ -263,10 +263,10 @@ The analysis identified several patterns in subscription renewal behavior.
 
 | Finding | Result |
 |---|---|
-| 🏢 **Industry differences** | Gaming had the highest renewal rate at **72.73%**, while Crypto had the lowest at **44.00%**. |
-| 💳 **Subscription type** | Monthly subscriptions generally showed higher renewal rates than yearly subscriptions. |
-| 📅 **Renewal over time** | Renewal rates remained relatively stable between **50.00% and 58.82%** from 2018–2022. |
-| 📈 **Economic conditions** | No clear relationship between renewal rates and inflation or GDP growth was identified. |
+|  **Industry differences** | Gaming had the highest renewal rate at **72.73%**, while Crypto had the lowest at **44.00%**. |
+|  **Subscription type** | Monthly subscriptions generally showed higher renewal rates than yearly subscriptions. |
+|  **Renewal over time** | Renewal rates remained relatively stable between **50.00% and 58.82%** from 2018–2022. |
+|  **Economic conditions** | No clear relationship between renewal rates and inflation or GDP growth was identified. |
 
 ###  Business Insights
 
