@@ -12,12 +12,12 @@
 
 ---
 
-** Goal:** Identify patterns in subscription renewals and determine which customer segments may require greater retention attention.
+**Goal:** Identify patterns in subscription renewals and determine which customer segments may require greater retention attention.
 
-** Workflow:** Python → MySQL → SQL Analysis → Business Insights
+**Workflow:** Python → MySQL → SQL Analysis → Business Insights
 
 ---
-## 📑 Table of Contents
+## ⏬ Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Business Questions](#-business-questions)
