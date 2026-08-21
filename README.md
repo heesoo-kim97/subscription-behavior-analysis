@@ -2,10 +2,13 @@
 
 > **Analyzing customer renewal patterns using Python, SQL, and MySQL**
 
-[![Python](https://img.shields.io/badge/Python-Data%20Preparation-blue?logo=python)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-Analysis-orange?logo=mysql)]
-[![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)]
-[![VS Code](https://img.shields.io/badge/VS%20Code-Development-blue?logo=visualstudiocode)]
+<br>
+
+![Python](https://img.shields.io/badge/Python-Data%20Preparation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Analysis-F29111?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-Development-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ---
 
@@ -22,12 +25,7 @@
 - [🗄️ Data & Database Structure](#️-data--database-structure)
 - [🐍 Python Data Preparation](#-python-data-preparation)
 - [🔎 Analysis & SQL](#-analysis--sql)
-  - [🏢 Renewal Rate by Industry](#-1-renewal-rate-by-industry)
-  - [💳 Renewal Rate by Subscription Type](#-2-renewal-rate-by-subscription-type)
-  - [📅 Renewal Rate Over Time](#-3-renewal-rate-over-time)
-  - [📈 Economic Conditions](#-4-exploratory-analysis-economic-conditions)
-- [📊 Key Findings & Insights](#-key-findings--insights)
-- [🔭 Future Improvements](#-future-improvements)
+- [📊 Key Findings & Business Insights](#-key-findings--business-insights)
 - [💼 Business Recommendations](#-business-recommendations)
 
 ---
