@@ -25,8 +25,8 @@
 - [Data & Database Structure](#️-data--database-structure)
 - [Python Data Preparation](#-python-data-preparation)
 - [Analysis & SQL](#-analysis--sql)
-- [📊 Key Findings & Business Insights](#-key-findings--business-insights)
-- [💼 Business Recommendations](#-business-recommendations)
+- [Key Findings & Business Insights](#-key-findings--business-insights)
+- [Business Recommendations](#-business-recommendations)
 
 ---
 ## Project Overview
