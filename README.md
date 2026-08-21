@@ -35,10 +35,10 @@ This project analyzes customer subscription behavior to identify patterns associ
 
 The analysis focuses on:
 
-- 🏢 **Industry**
-- 💳 **Subscription type**
-- 📅 **Renewal trends over time**
-- 📈 **Economic conditions**
+-  **Industry**
+-  **Subscription type**
+-  **Renewal trends over time**
+-  **Economic conditions**
 
 Python was used for data preparation and validation, while MySQL and SQL were used for database analysis.
 
@@ -51,10 +51,10 @@ Python was used for data preparation and validation, while MySQL and SQL were us
 
 | # | Question | Analysis Focus |
 |---|---|---|
-| 1 | Which industries have the highest and lowest renewal rates? | 🏢 Customer industry |
-| 2 | Does subscription type appear to influence renewal behavior? | 💳 Monthly vs. Yearly |
-| 3 | How has renewal changed over time? | 📅 2018–2022 trends |
-| 4 | Do economic conditions appear to coincide with renewal changes? | 📈 Inflation & GDP |
+| 1 | Which industries have the highest and lowest renewal rates? |  Customer industry |
+| 2 | Does subscription type appear to influence renewal behavior? |  Monthly vs. Yearly |
+| 3 | How has renewal changed over time? | 2018–2022 trends |
+| 4 | Do economic conditions appear to coincide with renewal changes? |  Inflation & GDP |
 
 ---
 ## Tools & Technologies
