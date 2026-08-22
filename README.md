@@ -21,13 +21,12 @@
 
 - [Project Overview](#project-overview)
 - [Business Questions](#business-questions)
-- [Tools and Technologies](tools-and-technologies)
-- [Data and Database Structure](data-and-database-structure)
+- [Tools & Technologies](#️tools--technologies)
+- [Data & Database Structure](#️data--database-structure)
 - [Python Data Preparation](#python-data-preparation)
 - [Analysis & SQL](#analysis--sql)
 - [Key Findings & Business Insights](#key-findings--business-insights)
 - [Business Recommendations](#business-recommendations)
-
 ---
 ## Project Overview
 
@@ -57,7 +56,7 @@ Python was used for data preparation and validation, while MySQL and SQL were us
 | 4 | Do economic conditions appear to coincide with renewal changes? |  Inflation & GDP |
 
 ---
-## Tools and Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -68,7 +67,7 @@ Python was used for data preparation and validation, while MySQL and SQL were us
 | SQL | Aggregation, grouping, joins, and renewal analysis |
 
 ---
-## Data and Database Structure
+## Data & Database Structure
 
 The project uses three related tables to analyze subscription behavior from both customer and economic perspectives.
 
