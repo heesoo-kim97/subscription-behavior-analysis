@@ -158,7 +158,7 @@ Which industries have the highest and lowest subscription renewal rates?
 **Approach:**  
 Joined `client_details` and `subscription_records` using `client_id` and calculated renewal rates by industry.
 
-> **Key Observation:** Gaming had the highest renewal rate at **72.73%**, while Crypto had the lowest at **44.00%**.
+> ⭐ **Key Observation:** Gaming had the highest renewal rate at **72.73%**, while Crypto had the lowest at **44.00%**.
 
 <details>
 <summary>View SQL Query</summary>
@@ -236,7 +236,7 @@ Do economic conditions appear to coincide with changes in renewal rates?
 **Approach:**  
 Matched subscription start dates to quarterly economic indicators and compared renewal rates with inflation and GDP growth.
 
-> 🔎 **Key Observation:** Renewal rates varied across economic conditions, but the available data did not provide enough evidence to conclude that inflation or GDP growth directly influenced renewal behavior.
+>  ⭐ **Key Observation:** Renewal rates varied across economic conditions, but the available data did not provide enough evidence to conclude that inflation or GDP growth directly influenced renewal behavior.
 
 <details>
 <summary>View SQL Query</summary>
