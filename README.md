@@ -17,7 +17,7 @@
 **Workflow:** Python → MySQL → SQL Analysis → Business Insights
 
 ---
-## ⏬ Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Business Questions](#business-questions)
